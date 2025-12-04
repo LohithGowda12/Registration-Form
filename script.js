@@ -15,7 +15,7 @@ function validateForm() {
         return false;
     }
 
-    // If you want to actually submit, change this to: return true;
+   
     alert("Registration successful! (Demo only, form not submitted)");
-    return false; // keep false for lab demo so page doesn't reload
+    return false; 
 }
